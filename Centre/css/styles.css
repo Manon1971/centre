@@ -85,7 +85,7 @@ p {
 
 .navbar {
     padding: 0 5px;
-    background-color: #B1D5E2
+    background-color: #B1D5E2;
 
 }
 
@@ -216,7 +216,7 @@ p {
 #propos {
     
     color: #2d2d2d;
-    background-color:#6DC2C4;
+    background-color:#B1D5E2;
     margin:20px;
 }
 
@@ -409,7 +409,7 @@ p {
 
     #comptoir {
         text-align: center;
-        background-color:#6DC2C4;
+        background-color:#B1D5E2;
         color: #192f4c;
         margin: 40px;
     }
