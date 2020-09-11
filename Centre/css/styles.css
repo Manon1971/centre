@@ -149,7 +149,8 @@ p {
 #wrapper {
     display: inline;
     animation: pulse 1s infinite;
-margin:15px;
+text-align:center;
+margin:15px auto;
 
 }
 
