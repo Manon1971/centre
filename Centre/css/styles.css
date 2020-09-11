@@ -143,59 +143,6 @@ p {
     font-size: 1.2rem;
 }
 
-/*Heart*/
-
-#wrapper {
-    display: inline;
-    animation: pulse 1s infinite;
-    margin:15px auto;
-position: relative;
-
-}
-
-#pulsingheart {
-   
-    width: 80px;
-    height: 70px;
-    display: inline-block;
-  position:absolute;
-    font-size: 25px;
-    
-}
-
-#pulsingheart:before,
-#pulsingheart:after {
-    position: absolute;
-    content: "";
-    
-    top: 0;
-    width: 50px;
-    height: 80px;
-    background: #aa0000;
-    border-radius: 50px 50px 0 0;
-    transform: rotate(-45deg);
-    transform-origin: 0 100%;
-    animation: pulsecolor 1s infinite;
-}
-
-#pulsingheart:after {
-    left: 0;
-    transform: rotate(45deg);
-    transform-origin: 100% 100%;
-    animation: pulsecolor 1s infinite;
-}
-
-@keyframes pulse {
-    10% {
-        transform: scale(1.3)
-    }
-}
-
-@keyframes pulsecolor {
-    10% {
-        background: #dd0000
-    }
-}
 
 .form-button {
     height: 42px;
