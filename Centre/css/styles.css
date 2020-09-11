@@ -205,7 +205,7 @@ p {
     border: none;
     color: white;
     font-size:1.5rem;
-    background: #cbf28d;
+    background: #fbffbf;
     cursor: pointer;
     text-align: center;
 }
@@ -330,7 +330,7 @@ p {
 .flex-container {
     display: flex;
     flex-wrap: wrap;
-    background-color:#cbf28d;
+    background-color:#fbffbf;
     text-align: center;
     margin: 10px 40px;
     
@@ -461,19 +461,6 @@ p {
     text-align:center;
 }
 
-                              /*PARTIE PARAGRAPHE*/
-
-
-.description{
-   background:#84cc69;
-    padding:15px;
-     
-}
-.horaire{
-    height:600px;
-    width:600px;
-}
-
 
                                     /*CONTACT PAGE*/
 
@@ -543,7 +530,7 @@ textarea {
     margin: 10px 40px;
     padding:10px 0px;
     border-radius:6px;
-    background-color:#cbf28d;
+    background-color:#fbffbf;
 }
 
                                          /*calendar*/
