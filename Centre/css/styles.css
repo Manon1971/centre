@@ -160,7 +160,6 @@ position: relative;
     height: 70px;
     display: inline-block;
   position:absolute;
-   left:30px;
     font-size: 25px;
     
 }
@@ -169,7 +168,7 @@ position: relative;
 #pulsingheart:after {
     position: absolute;
     content: "";
-    left: 30px;
+    
     top: 0;
     width: 50px;
     height: 80px;
