@@ -158,7 +158,7 @@ p {
     height: 70px;
     display: inline-block;
   position:relative;
-    margin-top:15px;
+    margin:12px auto;
     font-size: 25px;
     
 }
