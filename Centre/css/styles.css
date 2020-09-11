@@ -160,7 +160,7 @@ p {
 }
 #wrapper {
 	position: absolute;
-  margin-left: auto;
+  margin-left: 150px;
   margin-top: 50px;
 	animation:pulse 1s infinite;
 }
