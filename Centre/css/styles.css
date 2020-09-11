@@ -35,7 +35,7 @@ a:link {
   text-decoration: none;
 }
 a:visited {
-    color: #27571b;
+    color: #1249ff;
     background-color: transparent;
     font-weight: bold;
     text-decoration: none;
@@ -250,7 +250,6 @@ p {
     text-align: center;
     display: inline;
 }
-
 
 
                                   /*Footer section*/
