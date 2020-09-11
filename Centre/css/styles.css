@@ -150,6 +150,7 @@ p {
     display: inline;
     animation: pulse 1s infinite;
     margin:15px auto;
+position: relative;
 
 }
 
@@ -157,9 +158,9 @@ p {
    
     width: 80px;
     height: 70px;
-    display: inline;
-  position:relative;
-left:50px;
+    display: inline-block;
+  position:absolute;
+   left:50px;
     font-size: 25px;
     
 }
