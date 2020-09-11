@@ -161,7 +161,7 @@ width:404px;
 }
 #wrapper {
 	position: absolute;
-  margin-left: 150px;
+  margin-left: 250px;
   margin-top: 50px;
 	animation:pulse 1s infinite;
 }
